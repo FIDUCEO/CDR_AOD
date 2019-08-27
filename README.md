@@ -2,17 +2,19 @@
 
 # CDR_AOD
 
-Codebase for generation of the CDR for Aerosol and optical depth over land.
+L2 and L3 processing codebase used to generate the AVHRR climate data record (CDR) for aerosol optical depth (AOD) over land.
 
 ## Contents
 
 * `LICENSE` - FIDCUEO license file
 * `README.md` - README file
-* `codebase.zip` - codebase
+* `<codebase_files>.f90` - Fortran 90 codebase
+* `<codebase_files>.pro` - IDL codebase
 
 ## Contact information
 
 * Thomas Popp (thomas.popp@dlr.de)
+
 
 
 
